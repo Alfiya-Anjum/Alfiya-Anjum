@@ -1,21 +1,83 @@
+<!-- 👋 Hi there! Welcome to my GitHub Profile! -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="200" alt="Banner">
+</div>
+
 <h1 align="center">Hi 👋, I'm Alfiya Anjum</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Software Engineer | Data Engineer in the Making | Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on **Spotify Data Engineering Project**
-
-- 🌱 I’m currently learning **Azure Data Engineering • PySpark • Advanced SQL • Cloud Data Pipelines • Machine Learning Deployment**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Alfiya-Anjum?tab=repositories](https://github.com/Alfiya-Anjum?tab=repositories)
-
-- 💬 Ask me about **Python • React • Power BI • Streamlit • Turning messy data into clean insights (and memes)**
-
-- 📫 How to reach me **https://www.linkedin.com/in/alfiya-anjum-92a103278/**
-
-- ⚡ Fun fact **When I’m not debugging, I’m probably debugging why my coffee cup is empty. ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/alfiya-anjum-92a103278/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/Alfiya-Anjum"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
+  <a href="mailto:alfiya.anjum456@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+### 👩‍💻 About Me  
+💡 I’m a **Software Engineering graduate** passionate about transforming raw data into smart, scalable solutions.  
+🧠 Currently exploring **Data Engineering**, **PySpark**, **Azure**, and **Machine Learning** pipelines.  
+💬 I love blending tech and creativity — from **AI-powered dashboards** to **interactive web apps**.  
+🎯 My goal? To build data systems that make decision-making intuitive and insightful.  
+☕ Fun fact: I debug with coffee, not panic.  
+
+---
+
+### 🔭 Current Projects  
+- 🎵 **Spotify Data Engineering Project** — ETL pipeline using **Azure Data Factory**, **Databricks**, and **Power BI**  
+  [🔗 View Project](https://github.com/Alfiya-Anjum)  
+- 🌦️ **Global Weather Dashboard** — Real-time data pipeline & visualization using **Python**, **BigQuery**, and **Streamlit**  
+  [🔗 View Project](https://github.com/Alfiya-Anjum)  
+- 🤖 **AI-Powered Medical Image Classifier** — CNN and MobileNetV2 for pneumonia detection  
+  [🔗 View Project](https://github.com/Alfiya-Anjum)  
+
+---
+
+### 🌱 Currently Learning  
+💭 **Cloud Platforms** – Azure, GCP  
+💭 **Big Data Tools** – PySpark, Kafka, Airflow  
+💭 **Visualization** – Power BI, Streamlit, Tableau  
+💭 **Frameworks** – React, Node.js, Django  
+
+---
+
+### 🤝 Collaboration Goals  
+👯 I’m looking to collaborate on **open-source data analytics or AI visualization projects**  
+💬 Ask me about **Python, SQL, Power BI, React**, or **making dashboards look cooler than they need to**  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,react,nodejs,azure,gcp,postgresql,git,github,docker,kubernetes,figma,pytorch" />
+</p>
+
+---
+
+### 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:alfiya.anjum456@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alfiya-anjum-92a103278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Alfiya-Anjum"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### ⚡ GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfiya-Anjum&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfiya-Anjum&theme=radical" height="160" />
+</div>
+
+---
+
+### 🧠 Fun Fact  
+> *I treat data pipelines like puzzles — I don’t stop until all the pieces fit.*  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="coding girl gif">
+</div>
+
+---
+
+⭐️ *“Turning data into insights, one pipeline at a time.”*  
