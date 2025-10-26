@@ -1,6 +1,6 @@
 <!-- 👋 Hi there! Welcome to my GitHub Profile! -->
 <div align="center">
-  <img src="https://www.canva.com/design/DAG24h4QiZ4/wT39V5KWIeOKnH3TAp_M3g/edit" width="100%" height="200" alt="Banner">
+  <img src="C:\Users\SAMSUNG\Downloads\Hi 👋, I'm Alfiya Anjum.mp4" width="100%" height="200" alt="Banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Alfiya Anjum</h1>
@@ -81,4 +81,5 @@
 ---
 
 ⭐️ *“Turning data into insights, one pipeline at a time.”*  
+
 
